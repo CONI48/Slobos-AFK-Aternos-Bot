@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip":   "The_Forbidden_Realm.aternos.me:31455",
+    "port": 31455,
     "version": "",
     "try-creative": false
   },
