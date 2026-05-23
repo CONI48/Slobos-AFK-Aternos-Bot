@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":   "The_Forbidden_Realm.aternos.me",
+    "ip":"The_Forbidden_Realm.aternos.me",
     "port": 31455,
     "version": "",
     "try-creative": false
